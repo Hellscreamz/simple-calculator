@@ -1,0 +1,46 @@
+body {
+    background-image: url(/Images/mathematics-equations-science-3d-wallpaper-preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+
+#displayOutput {
+    font-size: 5cm;
+}
+#numOne {
+    width: 5cm;
+    height: 2cm;
+    text-align: center;
+    font-size: 2.2cm;
+    font-style: italic;
+    background-color: rgb(32, 124, 178);
+}
+#numTwo {
+    width: 5cm;
+    height: 2cm;
+    text-align: center;
+    font-size: 2.2cm;
+    font-style: italic;
+    background-color: rgb(32, 124, 178);
+}
+#sign {
+    width: 3cm;
+    height: 2cm;
+    text-align: center;
+    font-size: 2.2cm;
+    font-style: italic;
+    background-color: lightslategray;
+    
+}
+#calculateBtn {
+    width: 5.5cm;
+    height: 1cm;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    display: grid;
+    font-style: italic;
+    font-size: 25px;
+    background-color: lawngreen;
+    margin-top: 15px;
+}
